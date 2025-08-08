@@ -15,4 +15,5 @@ public class demo_6
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.ola.com/");
         driver.quit();
+    }
 }
