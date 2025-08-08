@@ -14,7 +14,7 @@ public class demo_2
     {
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
-        driver.get("https://www.google.com/");
+        driver.get("https://www.naukri.com/");
         driver.quit();
     }
 }
