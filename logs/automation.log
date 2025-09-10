@@ -1,0 +1,103 @@
+2025-09-10 09:59:50 INFO  [ebanking] - username is provided
+2025-09-10 09:59:50 INFO  [ebanking] - password is provided
+2025-09-10 09:59:57 INFO  [ebanking] - providing customer details...
+2025-09-10 10:02:56 INFO  [ebanking] - username is provided
+2025-09-10 10:02:57 INFO  [ebanking] - password is provided
+2025-09-10 10:03:14 INFO  [ebanking] - providing customer details...
+2025-09-10 10:15:16 INFO  [ebanking] - username is provided
+2025-09-10 10:15:16 INFO  [ebanking] - password is provided
+2025-09-10 10:15:36 INFO  [ebanking] - providing customer details...
+2025-09-10 10:25:31 INFO  [ebanking] - username is provided
+2025-09-10 10:25:31 INFO  [ebanking] - password is provided
+2025-09-10 10:25:49 INFO  [ebanking] - providing customer details...
+2025-09-10 10:26:02 INFO  [ebanking] - validation started...
+2025-09-10 10:26:02 INFO  [ebanking] - testcase is failed
+2025-09-10 10:54:21 INFO  [ebanking] - URL is opened
+2025-09-10 10:54:22 INFO  [ebanking] - Entered username
+2025-09-10 10:54:22 INFO  [ebanking] - Entered password
+2025-09-10 10:54:37 INFO  [ebanking] - Clicked submit button
+2025-09-10 10:54:37 INFO  [ebanking] - ✅ Login test passed
+2025-09-10 10:54:56 INFO  [ebanking] - username is provided
+2025-09-10 10:54:56 INFO  [ebanking] - password is provided
+2025-09-10 10:55:21 INFO  [ebanking] - username is provided
+2025-09-10 10:55:21 INFO  [ebanking] - password is provided
+2025-09-10 10:55:26 INFO  [ebanking] - username is provided
+2025-09-10 10:55:26 INFO  [ebanking] - password is provided
+2025-09-10 10:55:33 INFO  [ebanking] - username is provided
+2025-09-10 10:55:33 INFO  [ebanking] - password is provided
+2025-09-10 10:55:39 INFO  [ebanking] - login passed
+2025-09-10 10:56:12 INFO  [ebanking] - username is provided
+2025-09-10 10:56:12 INFO  [ebanking] - password is provided
+2025-09-10 10:56:35 INFO  [ebanking] - providing customer details...
+2025-09-10 10:56:46 INFO  [ebanking] - validation started...
+2025-09-10 10:56:46 INFO  [ebanking] - testcase is failed
+2025-09-10 11:10:17 INFO  [ebanking] - URL is opened
+2025-09-10 11:10:17 INFO  [ebanking] - Entered username
+2025-09-10 11:10:17 INFO  [ebanking] - Entered password
+2025-09-10 11:10:23 INFO  [ebanking] - Clicked submit button
+2025-09-10 11:10:23 INFO  [ebanking] - ✅ Login test passed
+2025-09-10 11:20:34 INFO  [ebanking] - URL is opened
+2025-09-10 11:20:34 INFO  [ebanking] - Entered username
+2025-09-10 11:20:34 INFO  [ebanking] - Entered password
+2025-09-10 11:20:48 INFO  [ebanking] - Clicked submit button
+2025-09-10 11:20:48 INFO  [ebanking] - ✅ Login test passed
+2025-09-10 11:25:40 INFO  [ebanking] - URL is opened
+2025-09-10 11:25:40 INFO  [ebanking] - Entered username
+2025-09-10 11:25:40 INFO  [ebanking] - Entered password
+2025-09-10 11:25:42 INFO  [ebanking] - Clicked submit button
+2025-09-10 11:25:42 INFO  [ebanking] - ✅ Login test passed
+2025-09-10 11:26:18 INFO  [ebanking] - username is provided
+2025-09-10 11:26:18 INFO  [ebanking] - password is provided
+2025-09-10 11:26:36 INFO  [ebanking] - username is provided
+2025-09-10 11:26:37 INFO  [ebanking] - password is provided
+2025-09-10 11:26:52 INFO  [ebanking] - username is provided
+2025-09-10 11:26:52 INFO  [ebanking] - password is provided
+2025-09-10 11:27:02 INFO  [ebanking] - username is provided
+2025-09-10 11:27:02 INFO  [ebanking] - password is provided
+2025-09-10 11:27:06 INFO  [ebanking] - login passed
+2025-09-10 11:27:35 INFO  [ebanking] - username is provided
+2025-09-10 11:27:35 INFO  [ebanking] - password is provided
+2025-09-10 11:27:55 INFO  [ebanking] - providing customer details...
+2025-09-10 11:28:02 INFO  [ebanking] - validation started...
+2025-09-10 11:28:02 INFO  [ebanking] - testcase is failed
+2025-09-10 11:39:23 INFO  [ebanking] - username is provided
+2025-09-10 11:39:23 INFO  [ebanking] - password is provided
+2025-09-10 11:39:35 INFO  [ebanking] - username is provided
+2025-09-10 11:39:35 INFO  [ebanking] - password is provided
+2025-09-10 11:39:41 INFO  [ebanking] - username is provided
+2025-09-10 11:39:41 INFO  [ebanking] - password is provided
+2025-09-10 11:43:31 INFO  [ebanking] - URL is opened
+2025-09-10 11:43:31 INFO  [ebanking] - Entered username
+2025-09-10 11:43:31 INFO  [ebanking] - Entered password
+2025-09-10 11:43:31 INFO  [ebanking] - Clicked submit button
+2025-09-10 11:43:55 INFO  [ebanking] - ✅ Login test passed
+2025-09-10 11:50:54 INFO  [ebanking] - URL is opened
+2025-09-10 11:50:55 INFO  [ebanking] - Entered username
+2025-09-10 11:50:55 INFO  [ebanking] - Entered password
+2025-09-10 11:51:05 INFO  [ebanking] - Clicked submit button
+2025-09-10 11:51:05 INFO  [ebanking] - ✅ Login test passed
+2025-09-10 11:51:11 INFO  [ebanking] - username is provided
+2025-09-10 11:51:11 INFO  [ebanking] - password is provided
+2025-09-10 11:51:29 INFO  [ebanking] - providing customer details...
+2025-09-10 11:51:40 INFO  [ebanking] - validation started...
+2025-09-10 11:51:40 INFO  [ebanking] - testcase is failed
+2025-09-10 12:00:32 INFO  [ebanking] - URL is opened
+2025-09-10 12:00:32 INFO  [ebanking] - Entered username
+2025-09-10 12:00:32 INFO  [ebanking] - Entered password
+2025-09-10 12:00:41 INFO  [ebanking] - Clicked submit button
+2025-09-10 12:00:41 INFO  [ebanking] - ✅ Login test passed
+2025-09-10 12:00:56 INFO  [ebanking] - username is provided
+2025-09-10 12:00:56 INFO  [ebanking] - password is provided
+2025-09-10 12:01:10 INFO  [ebanking] - providing customer details...
+2025-09-10 12:01:17 INFO  [ebanking] - validation started...
+2025-09-10 12:01:17 INFO  [ebanking] - testcase is failed
+2025-09-10 12:02:13 INFO  [ebanking] - URL is opened
+2025-09-10 12:02:14 INFO  [ebanking] - Entered username
+2025-09-10 12:02:14 INFO  [ebanking] - Entered password
+2025-09-10 12:02:19 INFO  [ebanking] - Clicked submit button
+2025-09-10 12:02:19 INFO  [ebanking] - ✅ Login test passed
+2025-09-10 12:02:46 INFO  [ebanking] - username is provided
+2025-09-10 12:02:46 INFO  [ebanking] - password is provided
+2025-09-10 12:03:02 INFO  [ebanking] - providing customer details...
+2025-09-10 12:03:09 INFO  [ebanking] - validation started...
+2025-09-10 12:03:09 INFO  [ebanking] - testcase is failed

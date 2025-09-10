@@ -1,0 +1,207 @@
+2025-09-09 12:34:04 INFO  [ebanking] - URL is opened
+2025-09-09 12:34:05 INFO  [ebanking] - Entered username
+2025-09-09 12:34:05 INFO  [ebanking] - Entered password
+2025-09-09 12:38:30 INFO  [ebanking] - URL is opened
+2025-09-09 12:38:31 INFO  [ebanking] - Entered username
+2025-09-09 12:38:31 INFO  [ebanking] - Entered password
+2025-09-09 12:41:16 INFO  [ebanking] - URL is opened
+2025-09-09 12:41:17 INFO  [ebanking] - Entered username
+2025-09-09 12:41:17 INFO  [ebanking] - Entered password
+2025-09-09 12:47:54 INFO  [ebanking] - URL is opened
+2025-09-09 12:47:54 INFO  [ebanking] - Entered username
+2025-09-09 12:47:54 INFO  [ebanking] - Entered password
+2025-09-09 12:47:56 INFO  [ebanking] - Actual page title from browser: 'GTPL Bank Manager HomePage'
+2025-09-09 12:47:56 INFO  [ebanking] - Expected page title should contain: 'GTPL Bank Home Page'
+2025-09-09 12:47:57 ERROR [ebanking] - ❌ Login test failed. Expected title to contain: 'GTPL Bank Home Page' but got: 'GTPL Bank Manager HomePage'
+2025-09-09 12:49:23 INFO  [ebanking] - URL is opened
+2025-09-09 12:49:23 INFO  [ebanking] - Entered username
+2025-09-09 12:49:23 INFO  [ebanking] - Entered password
+2025-09-09 12:49:30 INFO  [ebanking] - Actual page title from browser: 'GTPL Bank Manager HomePage'
+2025-09-09 12:49:30 INFO  [ebanking] - Expected page title should contain: 'GTPL Bank Manager HomePage'
+2025-09-09 12:49:30 INFO  [ebanking] - ✅ Login test passed
+2025-09-09 12:55:13 INFO  [ebanking] - URL is opened
+2025-09-09 12:55:14 INFO  [ebanking] - Entered username
+2025-09-09 12:55:14 INFO  [ebanking] - Entered password
+2025-09-09 13:00:26 INFO  [ebanking] - URL is opened
+2025-09-09 13:00:26 INFO  [ebanking] - Entered username
+2025-09-09 13:00:27 INFO  [ebanking] - Entered password
+2025-09-09 13:06:59 INFO  [ebanking] - URL is opened
+2025-09-09 13:06:59 INFO  [ebanking] - Entered username
+2025-09-09 13:06:59 INFO  [ebanking] - Entered password
+2025-09-09 13:07:00 INFO  [ebanking] - Actual Page Title: GTPL Bank Manager HomePage
+2025-09-09 13:11:46 INFO  [ebanking] - URL is opened
+2025-09-09 13:11:46 INFO  [ebanking] - Entered username
+2025-09-09 13:11:46 INFO  [ebanking] - Entered password
+2025-09-09 13:37:42 INFO  [ebanking] - URL is opened
+2025-09-09 13:37:43 INFO  [ebanking] - Entered username
+2025-09-09 13:37:43 INFO  [ebanking] - Entered password
+2025-09-09 13:58:40 INFO  [ebanking] - URL is opened
+2025-09-09 13:58:41 INFO  [ebanking] - Entered username
+2025-09-09 13:58:41 INFO  [ebanking] - Entered password
+2025-09-09 13:58:42 INFO  [ebanking] - Clicked submit button
+2025-09-09 13:58:44 INFO  [ebanking] - ✅ Login test passed
+2025-09-09 14:00:39 INFO  [ebanking] - URL is opened
+2025-09-09 14:00:40 INFO  [ebanking] - Entered username
+2025-09-09 14:00:40 INFO  [ebanking] - Entered password
+2025-09-09 14:00:41 INFO  [ebanking] - Clicked submit button
+2025-09-09 14:00:42 INFO  [ebanking] - ✅ Login test passed
+2025-09-09 14:01:39 INFO  [ebanking] - URL is opened
+2025-09-09 14:01:40 INFO  [ebanking] - Entered username
+2025-09-09 14:01:40 INFO  [ebanking] - Entered password
+2025-09-09 14:01:41 INFO  [ebanking] - Clicked submit button
+2025-09-09 14:01:43 ERROR [ebanking] - ❌ Login test failed
+2025-09-09 17:11:27 INFO  [ebanking] - username is provided
+2025-09-09 17:11:27 INFO  [ebanking] - password is provided
+2025-09-09 17:11:31 INFO  [ebanking] - login passed
+2025-09-09 17:17:08 INFO  [ebanking] - username is provided
+2025-09-09 17:17:09 INFO  [ebanking] - password is provided
+2025-09-09 17:17:12 INFO  [ebanking] - login passed
+2025-09-09 17:24:50 INFO  [ebanking] - username is provided
+2025-09-09 17:24:50 INFO  [ebanking] - password is provided
+2025-09-09 17:24:55 INFO  [ebanking] - login passed
+2025-09-09 17:36:50 INFO  [ebanking] - username is provided
+2025-09-09 17:36:50 INFO  [ebanking] - password is provided
+2025-09-09 17:36:53 INFO  [ebanking] - login passed
+2025-09-09 17:40:07 INFO  [ebanking] - username is provided
+2025-09-09 17:40:07 INFO  [ebanking] - password is provided
+2025-09-09 17:40:11 INFO  [ebanking] - login passed
+2025-09-09 17:47:22 INFO  [ebanking] - username is provided
+2025-09-09 17:47:23 INFO  [ebanking] - password is provided
+2025-09-09 17:47:26 INFO  [ebanking] - login passed
+2025-09-09 17:57:33 INFO  [ebanking] - username is provided
+2025-09-09 17:57:33 INFO  [ebanking] - password is provided
+2025-09-09 17:57:34 INFO  [ebanking] - login passed for user: mngr633060
+2025-09-09 17:57:36 ERROR [ebanking] - Logout failed: element click intercepted: Element <a href="Logout.php">...</a> is not clickable at point (120, 494). Other element would receive the click: <p class="barone" style="font-size:16px;font-weight:700;padding: 10px;background-color:#525252;margin-top:100px;">...</p>
+  (Session info: chrome=139.0.7258.155)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1ab1153603d0c680dd79d37fd7005d80, clickElement {id=f.6D24130DD6E3718D421D7EF544C3DFE1.d.0A02E7F1370AD3409619B3CD0F406E53.e.33}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.169 (f67687ed433..., userDataDir: C:\Users\AMIT\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57846}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57846/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1ab1153603d0c680dd79d37fd7005d80)] -> xpath: /html[1]/body[1]/div[3]/div[1]/ul[1]/li[10]/a[1]]
+Session ID: 1ab1153603d0c680dd79d37fd7005d80
+2025-09-09 17:59:39 INFO  [ebanking] - username is provided
+2025-09-09 17:59:39 INFO  [ebanking] - password is provided
+2025-09-09 17:59:41 INFO  [ebanking] - login passed for user: mngr633060
+2025-09-09 17:59:42 ERROR [ebanking] - Logout failed: element click intercepted: Element <a href="Logout.php">...</a> is not clickable at point (120, 494). Other element would receive the click: <p class="barone" style="font-size:16px;font-weight:700;padding: 10px;background-color:#525252;margin-top:100px;">...</p>
+  (Session info: chrome=139.0.7258.155)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b1a0709e6dc1ae1ac28607f24882f380, clickElement {id=f.625A2B16FDFEC7D137B00A80A3D574E6.d.8EFED6F72B43E0E07009D3907C9F95BB.e.32}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.169 (f67687ed433..., userDataDir: C:\Users\AMIT\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57950}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57950/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b1a0709e6dc1ae1ac28607f24882f380)] -> xpath: /html[1]/body[1]/div[3]/div[1]/ul[1]/li[10]/a[1]]
+Session ID: b1a0709e6dc1ae1ac28607f24882f380
+2025-09-09 18:02:52 INFO  [ebanking] - username is provided
+2025-09-09 18:02:52 INFO  [ebanking] - password is provided
+2025-09-09 18:02:57 INFO  [ebanking] - login passed for user: mngr633060
+2025-09-09 18:02:58 ERROR [ebanking] - Logout failed: element click intercepted: Element <a href="Logout.php">...</a> is not clickable at point (120, 522). Other element would receive the click: <p style="text-align:center;">...</p>
+  (Session info: chrome=139.0.7258.155)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bef1a2760a4f8e523d034f4465dbab31, clickElement {id=f.C8E4903D878F37B95EFE4F807A6A94B8.d.7AFA3A0B1BD781913DBF10B630FFAE73.e.59}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.169 (f67687ed433..., userDataDir: C:\Users\AMIT\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58091}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58091/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (bef1a2760a4f8e523d034f4465dbab31)] -> xpath: /html[1]/body[1]/div[3]/div[1]/ul[1]/li[10]/a[1]]
+Session ID: bef1a2760a4f8e523d034f4465dbab31
+2025-09-09 18:10:23 INFO  [ebanking] - username is provided
+2025-09-09 18:10:23 INFO  [ebanking] - password is provided
+2025-09-09 18:10:25 INFO  [ebanking] - login passed for user: mngr633060
+2025-09-09 18:10:28 INFO  [ebanking] - logout successful
+2025-09-09 18:10:28 INFO  [ebanking] - username is provided
+2025-09-09 18:10:28 INFO  [ebanking] - password is provided
+2025-09-09 18:10:29 INFO  [ebanking] - login passed for user: mngr633061
+2025-09-09 18:10:40 ERROR [ebanking] - Logout failed: no such element: Unable to locate element: {"method":"xpath","selector":"/html[1]/body[1]/div[3]/div[1]/ul[1]/li[10]/a[1]"}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e1a0f3c2c2d185b0d2f7cb43dd3ba5e8, findElement {using=xpath, value=/html[1]/body[1]/div[3]/div[1]/ul[1]/li[10]/a[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.169 (f67687ed433..., userDataDir: C:\Users\AMIT\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58310}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58310/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e1a0f3c2c2d185b0d2f7cb43dd3ba5e8
+2025-09-09 18:10:40 INFO  [ebanking] - username is provided
+2025-09-09 18:10:41 INFO  [ebanking] - password is provided
+2025-09-09 18:10:41 INFO  [ebanking] - login passed for user: mngr633060
+2025-09-09 18:10:45 INFO  [ebanking] - logout successful
+2025-09-09 18:12:17 INFO  [ebanking] - username is provided
+2025-09-09 18:12:17 INFO  [ebanking] - password is provided
+2025-09-09 18:12:18 INFO  [ebanking] - login passed for user: mngr633060
+2025-09-09 18:12:23 INFO  [ebanking] - logout successful
+2025-09-09 18:12:23 INFO  [ebanking] - username is provided
+2025-09-09 18:12:23 INFO  [ebanking] - password is provided
+2025-09-09 18:12:24 INFO  [ebanking] - login passed for user: mngr633061
+2025-09-09 18:12:35 ERROR [ebanking] - Logout failed: no such element: Unable to locate element: {"method":"xpath","selector":"/html[1]/body[1]/div[3]/div[1]/ul[1]/li[10]/a[1]"}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [354132a254c7900dbc01f613a2d62752, findElement {value=/html[1]/body[1]/div[3]/div[1]/ul[1]/li[10]/a[1], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.169 (f67687ed433..., userDataDir: C:\Users\AMIT\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58367}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58367/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 354132a254c7900dbc01f613a2d62752
+2025-09-09 18:12:35 INFO  [ebanking] - username is provided
+2025-09-09 18:12:36 INFO  [ebanking] - password is provided
+2025-09-09 18:12:37 INFO  [ebanking] - login passed for user: mngr633060
+2025-09-09 18:12:40 INFO  [ebanking] - logout successful
+2025-09-09 18:22:16 INFO  [ebanking] - username is provided: mngr633060
+2025-09-09 18:22:16 INFO  [ebanking] - password is provided
+2025-09-09 18:22:19 WARN  [ebanking] - login failed (wrong page) for user: mngr633060
+2025-09-09 18:22:20 INFO  [ebanking] - username is provided: mngr633061
+2025-09-09 18:22:20 INFO  [ebanking] - password is provided
+2025-09-09 18:22:26 INFO  [ebanking] - username is provided: mngr633060
+2025-09-09 18:22:26 INFO  [ebanking] - password is provided
+2025-09-09 18:22:28 WARN  [ebanking] - login failed (wrong page) for user: mngr633060
+2025-09-09 18:23:30 INFO  [ebanking] - username is provided: mngr633060
+2025-09-09 18:23:30 INFO  [ebanking] - password is provided
+2025-09-09 18:23:33 WARN  [ebanking] - login failed (wrong page) for user: mngr633060
+2025-09-09 18:23:34 INFO  [ebanking] - username is provided: mngr633061
+2025-09-09 18:23:34 INFO  [ebanking] - password is provided
+2025-09-09 18:23:41 INFO  [ebanking] - username is provided: mngr633060
+2025-09-09 18:23:41 INFO  [ebanking] - password is provided
+2025-09-09 18:23:43 WARN  [ebanking] - login failed (wrong page) for user: mngr633060
+2025-09-09 18:35:00 INFO  [ebanking] - username is provided: mngr633061
+2025-09-09 18:35:00 INFO  [ebanking] - password is provided
+2025-09-09 18:35:07 INFO  [ebanking] - username is provided: mngr633062
+2025-09-09 18:35:07 INFO  [ebanking] - password is provided
+2025-09-09 18:35:18 INFO  [ebanking] - username is provided: mngr633063
+2025-09-09 18:35:18 INFO  [ebanking] - password is provided
+2025-09-09 18:35:23 INFO  [ebanking] - username is provided: mngr633060
+2025-09-09 18:35:23 INFO  [ebanking] - password is provided
+2025-09-09 18:35:26 WARN  [ebanking] - login failed (wrong page) for user: mngr633060
+2025-09-09 18:35:27 INFO  [ebanking] - username is provided: 
+2025-09-09 18:35:27 INFO  [ebanking] - password is provided
+2025-09-09 18:35:30 WARN  [ebanking] - login failed (wrong page) for user: 
+2025-09-09 18:37:23 INFO  [ebanking] - username is provided
+2025-09-09 18:37:23 INFO  [ebanking] - password is provided
+2025-09-09 18:37:34 INFO  [ebanking] - username is provided
+2025-09-09 18:37:34 INFO  [ebanking] - password is provided
+2025-09-09 18:37:39 INFO  [ebanking] - username is provided
+2025-09-09 18:37:40 INFO  [ebanking] - password is provided
+2025-09-09 18:37:45 INFO  [ebanking] - username is provided
+2025-09-09 18:37:45 INFO  [ebanking] - password is provided
+2025-09-09 18:37:48 INFO  [ebanking] - login passed
+2025-09-09 18:37:55 INFO  [ebanking] - username is provided
+2025-09-09 18:37:55 INFO  [ebanking] - password is provided
+2025-09-09 18:37:58 INFO  [ebanking] - login passed
+2025-09-09 18:43:11 INFO  [ebanking] - username is provided
+2025-09-09 18:43:11 INFO  [ebanking] - password is provided
+2025-09-09 18:43:17 INFO  [ebanking] - username is provided
+2025-09-09 18:43:18 INFO  [ebanking] - password is provided
+2025-09-09 18:43:23 INFO  [ebanking] - username is provided
+2025-09-09 18:43:23 INFO  [ebanking] - password is provided
+2025-09-09 18:43:27 INFO  [ebanking] - username is provided
+2025-09-09 18:43:27 INFO  [ebanking] - password is provided
+2025-09-09 18:43:30 INFO  [ebanking] - login passed
+2025-09-09 18:43:36 INFO  [ebanking] - username is provided
+2025-09-09 18:43:36 INFO  [ebanking] - password is provided
+2025-09-09 18:43:39 INFO  [ebanking] - login passed
+2025-09-09 19:06:34 INFO  [ebanking] - username is provided
+2025-09-09 19:06:34 INFO  [ebanking] - password is provided
+2025-09-09 19:06:39 INFO  [ebanking] - username is provided
+2025-09-09 19:06:39 INFO  [ebanking] - password is provided
+2025-09-09 19:06:44 INFO  [ebanking] - username is provided
+2025-09-09 19:06:44 INFO  [ebanking] - password is provided
+2025-09-09 19:06:49 INFO  [ebanking] - username is provided
+2025-09-09 19:06:49 INFO  [ebanking] - password is provided
+2025-09-09 19:06:52 INFO  [ebanking] - login passed
